@@ -1,0 +1,8 @@
+# Ignore App backend build output
+App/backend/target/
+
+# Ignore App frontend dependencies
+App/frontend/node_modules/
+
+# Ignore local Postman collection containing test credentials
+App/backend/Banking Portal.postman_collection.json
