@@ -99,6 +99,9 @@ securebank/
 
 ### Production Environment — Detailed Architecture
 
+<img width="1422" height="1912" alt="Securebank" src="https://github.com/user-attachments/assets/40cc4032-a970-49ac-8496-a25e4fa3bb45" />
+
+
 
 
 
